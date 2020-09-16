@@ -16,7 +16,7 @@ I am a bioinformatician at the Cardiomyopathy Research Group at Fuwai Hospital, 
 * [sc-miReg][SC-MIREG]: Analysis of miRNA Regulation in Single Cells
 * [tomoda][TOMODA]: A R package for tomo-seq data analysis
 
-[PHOTO]: /img/photo.png
+[PHOTO]: /img/photo.jpg
 [SCRIN]: https://github.com/liuwd15/scRIN
 [SC-MIREG]: https://github.com/liuwd15/sc-mireg/
 [TOMODA]: https://github.com/liuwd15/tomoda/
