@@ -16,7 +16,7 @@
 title: Wendao Liu
 email: liuwd15@tsinghua.org.cn
 description: >- # this means to ignore newlines until "baseurl:"
-  @ 2020 Wendao Liu. All Rights Reserved
+  @ 2020-2022 Wendao Liu. All Rights Reserved
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  liuwd15
