@@ -6,7 +6,7 @@ permalink: /about/
 
 ![photo][PHOTO]
 
-I am a PhD student at MD Anderson Cancer Center UTHealth Houston Graduate School of Biomedical Sciences.
+I am a PhD student at The University of Texas MD Anderson Cancer Center UTHealth Houston Graduate School of Biomedical Sciences.
 
 # Publications
 + **Liu W**, Zhang X. Single-cell alternative splicing analysis reveals dominance of single transcript variant. *Genomics*. 2020;112(3):2418-2425. doi:[10.1016/j.ygeno.2020.01.014](https://doi.org/10.1016/j.ygeno.2020.01.014)
