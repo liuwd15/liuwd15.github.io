@@ -16,6 +16,7 @@ I am a PhD student at The University of Texas MD Anderson Cancer Center UTHealth
 + **Liu W**, Jia J, Dai Y, Chen W, Pei G, Yan Q, Zhao Z. Delineating COVID-19 immunological features using single-cell RNA sequencing. *The Innovation*. 2022;3(5):100289. doi:[10.1016/j.xinn.2022.100289](https://doi.org/10.1016/j.xinn.2022.100289)
 + **Liu W**, Shomron N. Analysis of MicroRNA Regulation and Gene Expression Variability in Single Cell Data. *J Pers Med*. 2022;12(10):1750. doi:[10.3390/jpm12101750](https://doi.org/10.3390/jpm12101750)
 + **Liu W**, Ye X, An Z, Zhao Z. The challenges and opportunities of scRNA-seq in COVID-19 research and clinical translation. *Virol J*. 2022;19(1):217. doi: [10.1186/s12985-022-01923-x](https://doi.org/10.1186/s12985-022-01923-x).
++ Sheng Y, Wu L, Chang Y, **Liu W**, Tao M, Chen X, Zhang X, Li B, Zhang N, Ye D, Zhang C, Zhu D, Zhao H, Chen A, Chen H, Song J. Tomo-seq identifies NINJ1 as a potential target for anti-inflammatory strategy in thoracic aortic dissection. *BMC Med*. 2023 Oct 20;21(1):396. doi: [10.1186/s12916-023-03077-1](https://doi.org/10.1186/s12916-023-03077-1). 
 
 \# Co-first author
 
