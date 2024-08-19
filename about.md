@@ -9,26 +9,30 @@ permalink: /about/
 I am a PhD student at The University of Texas MD Anderson Cancer Center UTHealth Houston Graduate School of Biomedical Sciences.
 
 # Publications
-+ **Liu W**, Zhang X. Single-cell alternative splicing analysis reveals dominance of single transcript variant. *Genomics*. 2020;112(3):2418-2425. doi:[10.1016/j.ygeno.2020.01.014](https://doi.org/10.1016/j.ygeno.2020.01.014)
-+ **Liu W**, Shomron N. Analysis of microRNA Regulation in Single Cells. *Methods Mol Biol*. 2021;2243:339-354. doi:[10.1007/978-1-0716-1103-6_18](https://doi.org/10.1007/978-1-0716-1103-6_18)
-+ Hu Z#, **Liu W**#, Hua X#, Chen X#, Chang Y, Hu Y, Xu Z, Song J. Single-Cell Transcriptomic Atlas of Different Human Cardiac Arteries Identifies Cell Types Associated With Vascular Physiology. *Arterioscler Thromb Vasc Biol*. 2021;41(4):1408-1427. doi: [10.1161/ATVBAHA.120.315373](https://doi.org/10.1161/ATVBAHA.120.315373).
-+ Dai Y, Yu H, Yan Q, Li B, Liu A, **Liu W**, Jiang X, Kim Y, Guo Y, Zhao Z. Drug-Target Network Study Reveals the Core Target-Protein Interactions of Various COVID-19 Treatments. *Genes*. 2022;13(7):1210. doi:[10.3390/genes13071210](https://doi.org/10.3390/genes13071210)
-+ **Liu W**, Jia J, Dai Y, Chen W, Pei G, Yan Q, Zhao Z. Delineating COVID-19 immunological features using single-cell RNA sequencing. *The Innovation*. 2022;3(5):100289. doi:[10.1016/j.xinn.2022.100289](https://doi.org/10.1016/j.xinn.2022.100289)
++ **Liu W**, Zhao Z. Scupa: Single-cell unified polarization assessment of immune cells using the single-cell foundation model. *bioRxiv*. 2024. doi:[10.1101/2024.08.15.608093](https://doi.org/10.1101/2024.08.15.608093)
++ Strickland LN#, **Liu W**#, Hussein U, et al. Preventive Treatment with a CD73 Small Molecule Inhibitor Enhances Immune Surveillance in K-Ras Mutant Pancreatic Intraepithelial Neoplasia. *Cancer Prev Res*. 2024. doi:[10.1158/1940-6207.CAPR-24-0200](https://doi.org/10.1158/1940-6207.CAPR-24-0200)
++ **Liu W**, Li W, Zhao Z. Single-cell transcriptomics reveals pre-existing COVID-19 vulnerability factors in lung cancer patients. *Mol Cancer Res*. 2024 Mar 1;22(3):240-253. doi: [10.1158/1541-7786.MCR-23-0692](https://doi.org/10.1158/1541-7786.MCR-23-0692).
++ Sheng Y, Wu L, Chang Y, **Liu W**, Tao M, Chen X, Zhang X, Li B, Zhang N, Ye D, Zhang C, Zhu D, Zhao H, Chen A, Chen H, Song J. Tomo-seq identifies NINJ1 as a potential target for anti-inflammatory strategy in thoracic aortic dissection. *BMC Med*. 2023 Oct 20;21(1):396. doi: [10.1186/s12916-023-03077-1](https://doi.org/10.1186/s12916-023-03077-1). 
 + **Liu W**, Shomron N. Analysis of MicroRNA Regulation and Gene Expression Variability in Single Cell Data. *J Pers Med*. 2022;12(10):1750. doi:[10.3390/jpm12101750](https://doi.org/10.3390/jpm12101750)
 + **Liu W**, Ye X, An Z, Zhao Z. The challenges and opportunities of scRNA-seq in COVID-19 research and clinical translation. *Virol J*. 2022;19(1):217. doi: [10.1186/s12985-022-01923-x](https://doi.org/10.1186/s12985-022-01923-x).
-+ Sheng Y, Wu L, Chang Y, **Liu W**, Tao M, Chen X, Zhang X, Li B, Zhang N, Ye D, Zhang C, Zhu D, Zhao H, Chen A, Chen H, Song J. Tomo-seq identifies NINJ1 as a potential target for anti-inflammatory strategy in thoracic aortic dissection. *BMC Med*. 2023 Oct 20;21(1):396. doi: [10.1186/s12916-023-03077-1](https://doi.org/10.1186/s12916-023-03077-1). 
-+ **Liu W**, Li W, Zhao Z. Single-cell transcriptomics reveals pre-existing COVID-19 vulnerability factors in lung cancer patients. *Mol Cancer Res*. 2023. doi: [10.1158/1541-7786.MCR-23-0692](https://doi.org/10.1158/1541-7786.MCR-23-0692).
++ **Liu W**, Jia J, Dai Y, Chen W, Pei G, Yan Q, Zhao Z. Delineating COVID-19 immunological features using single-cell RNA sequencing. *The Innovation*. 2022;3(5):100289. doi:[10.1016/j.xinn.2022.100289](https://doi.org/10.1016/j.xinn.2022.100289)
++ Dai Y, Yu H, Yan Q, Li B, Liu A, **Liu W**, Jiang X, Kim Y, Guo Y, Zhao Z. Drug-Target Network Study Reveals the Core Target-Protein Interactions of Various COVID-19 Treatments. *Genes*. 2022;13(7):1210. doi:[10.3390/genes13071210](https://doi.org/10.3390/genes13071210)
++ **Liu W**, Shomron N. Analysis of microRNA Regulation in Single Cells. *Methods Mol Biol*. 2021;2243:339-354. doi:[10.1007/978-1-0716-1103-6_18](https://doi.org/10.1007/978-1-0716-1103-6_18)
++ Hu Z#, **Liu W**#, Hua X#, Chen X#, Chang Y, Hu Y, Xu Z, Song J. Single-Cell Transcriptomic Atlas of Different Human Cardiac Arteries Identifies Cell Types Associated With Vascular Physiology. *Arterioscler Thromb Vasc Biol*. 2021;41(4):1408-1427. doi: [10.1161/ATVBAHA.120.315373](https://doi.org/10.1161/ATVBAHA.120.315373).
++ **Liu W**, Zhang X. Single-cell alternative splicing analysis reveals dominance of single transcript variant. *Genomics*. 2020;112(3):2418-2425. doi:[10.1016/j.ygeno.2020.01.014](https://doi.org/10.1016/j.ygeno.2020.01.014)
 
 \# Co-first author
 
 # Softwares
-+ [scRIN][SCRIN]: Measuring the mRNA integrity in single-cell sequencing data
-+ [sc-miReg][SC-MIREG]: Analysis of miRNA Regulation in Single Cells
-+ [tomoda][TOMODA]: A R/Bioconductor package for tomo-seq data analysis
++ [Scupa][SCUPA]: An R package for single-cell unified polarization assessment of immune cells
 + [GAN-DP][GAN-DP]: A StyleGAN2-based method to create semantic image-drived phenotypes
++ [tomoda][TOMODA]: An R/Bioconductor package for tomo-seq data analysis
++ [sc-miReg][SC-MIREG]: Analysis of miRNA Regulation in Single Cells
++ [scRIN][SCRIN]: Measuring the mRNA integrity in single-cell sequencing data
 
 [PHOTO]: /img/photo.jpg
 [SCRIN]: https://github.com/liuwd15/scRIN
 [SC-MIREG]: https://github.com/liuwd15/sc-mireg/
 [TOMODA]: https://github.com/liuwd15/tomoda/
 [GAN-DP]: https://github.com/liuwd15/GAN-DP
+[SCUPA]: https://github.com/liuwd15/Scupa
