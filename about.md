@@ -9,7 +9,12 @@ permalink: /about/
 I am a PhD student at The University of Texas MD Anderson Cancer Center UTHealth Houston Graduate School of Biomedical Sciences.
 
 # Publications
-+ **Liu W**, Zhao Z. Scupa: Single-cell unified polarization assessment of immune cells using the single-cell foundation model. *bioRxiv*. 2024. doi:[10.1101/2024.08.15.608093](https://doi.org/10.1101/2024.08.15.608093)
+[Google scholar](https://scholar.google.com/citations?user=tSspDo0AAAAJ)
+
++ Xiao L, Duan R, **Liu W**, Zhang C, Ma X, et al. Tumor-specific CD8+ Tc9 1 cells activate host CD4+ T cells to control antigen-lost tumors. *Nat Cancer*. 2025. doi:[10.1038/s43018-025-00935-0](https://doi.org/10.1038/s43018-025-00935-0)
++ Cui H, Nie H, Wang C, Zhang N, Wang Y, **Liu W**, et al. Phenotype-based classification of obstructive hypertrophic cardiomyopathy undergoing myomectomy. *JACC Basic Transl Sci*. 2025. doi:[10.1016/j.jacbts.2024.12.016](https://doi.org/10.1016/j.jacbts.2024.12.016)
++ **Liu W**, Zhao Z. Scupa: Single-cell unified polarization assessment of immune cells using the single-cell foundation model. *Bioinformatics*. 2025. doi:[10.1093/bioinformatics/btaf090](https://doi.org/10.1093/bioinformatics/btaf090)
++ Saito Y, Xiao Y, Yao J, Li Y, **Liu W**, et al. Targeting a chemo-induced adaptive signaling circuit confers therapeutic vulnerabilities in pancreatic cancer. *Cell Discov*. 2024;10(1):109. doi:[10.1038/s41421-024-00720-w](https://doi.org/10.1038/s41421-024-00720-w)
 + Strickland LN#, **Liu W**#, Hussein U, et al. Preventive Treatment with a CD73 Small Molecule Inhibitor Enhances Immune Surveillance in K-Ras Mutant Pancreatic Intraepithelial Neoplasia. *Cancer Prev Res*. 2024. doi:[10.1158/1940-6207.CAPR-24-0200](https://doi.org/10.1158/1940-6207.CAPR-24-0200)
 + **Liu W**, Li W, Zhao Z. Single-cell transcriptomics reveals pre-existing COVID-19 vulnerability factors in lung cancer patients. *Mol Cancer Res*. 2024 Mar 1;22(3):240-253. doi: [10.1158/1541-7786.MCR-23-0692](https://doi.org/10.1158/1541-7786.MCR-23-0692).
 + Sheng Y, Wu L, Chang Y, **Liu W**, Tao M, Chen X, Zhang X, Li B, Zhang N, Ye D, Zhang C, Zhu D, Zhao H, Chen A, Chen H, Song J. Tomo-seq identifies NINJ1 as a potential target for anti-inflammatory strategy in thoracic aortic dissection. *BMC Med*. 2023 Oct 20;21(1):396. doi: [10.1186/s12916-023-03077-1](https://doi.org/10.1186/s12916-023-03077-1). 
