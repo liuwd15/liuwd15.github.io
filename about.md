@@ -4,14 +4,13 @@ title: About
 permalink: /about/
 ---
 
----
-layout: page
-title: About
-permalink: /about/
----
+<header class="about-header">
+  <img src="{{ site.author.avatar }}" alt="{{ site.author.name }}" class="about-photo">
+  <h1>{{ page.title }}</h1>
+</header>
 
 <div class="about-content">
-  <p>I am a PhD student at The University of Texas MD Anderson Cancer Center UTHealth Houston Graduate School of Biomedical Sciences, specializing in computational biology.</p>
+  <p>I am a PhD student at The University of Texas MD Anderson Cancer Center UTHealth Houston Graduate School of Biomedical Sciences, specializing in computational biology and single-cell analysis.</p>
 
   <div class="social-links">
     <a href="https://www.linkedin.com/in/wendao-liu/" target="_blank">LinkedIn</a>
