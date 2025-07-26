@@ -14,18 +14,37 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Wendao Liu
-email: liuwd15@tsinghua.org.cn
+tagline: PhD Student | Computational Biology | Single-cell Analysis | Machine Learning
+email: liuwd15@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  @ 2020-present Wendao Liu. All Rights Reserved
+  PhD student at The University of Texas MD Anderson Cancer Center UTHealth Houston Graduate School 
+  of Biomedical Sciences, specializing in computational biology and single-cell analysis.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  liuwd15
+github_username: liuwd15
+linkedin_username: wendao-liu
+google_scholar: tSspDo0AAAAJ
+
+# Author information
+author:
+  name: Wendao Liu
+  bio: PhD Student in Computational Biology
+  location: Houston, TX
+  avatar: /img/photo.jpg
 
 # Build settings
 markdown: kramdown
+highlighter: rouge
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Custom settings
+show_excerpts: false
+minima:
+  skin: auto
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

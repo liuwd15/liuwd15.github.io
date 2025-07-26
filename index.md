@@ -4,4 +4,5 @@
 
 layout: home
 ---
-(o゜▽゜)o☆
+
+Welcome to my academic website! I'm passionate about computational biology, single-cell analysis, and developing innovative tools for cancer research.

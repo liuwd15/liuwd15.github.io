@@ -2,31 +2,86 @@
 layout: default
 ---
 
-<div class="home">
-  {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%}
+<section class="hero">
+  <div class="hero-content">
+    <div class="hero-text">
+      <h1 class="hero-title">{{ site.author.name }}</h1>
+      <p class="hero-tagline">{{ site.tagline }}</p>
+      <p class="hero-description">{{ site.description }}</p>
+      <div class="hero-buttons">
+        <a href="/about/" class="btn btn-primary">About Me</a>
+        <a href="https://scholar.google.com/citations?user={{ site.google_scholar }}" class="btn btn-secondary" target="_blank">
+          <i class="icon-scholar"></i> Publications
+        </a>
+      </div>
+    </div>
+    <div class="hero-image">
+      <div class="image-container">
+        <img src="{{ site.author.avatar }}" alt="{{ site.author.name }}" class="profile-image">
+        <div class="image-overlay"></div>
+      </div>
+    </div>
+  </div>
+  <div class="hero-scroll">
+    <a href="#content" class="scroll-indicator">
+      <span></span>
+      <span></span>
+      <span></span>
+    </a>
+  </div>
+</section>
 
+<main id="content" class="main-content">
   {{ content }}
 
   {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
-    <ul class="post-list">
-      {%- for post in site.posts -%}
-      <li>
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
-      </li>
-      {%- endfor -%}
-    </ul>
+    <section class="posts-section">
+      <div class="container">
+        <h2 class="section-title">{{ page.list_title | default: "Latest Posts" }}</h2>
+        <div class="posts-grid">
+          {%- for post in site.posts limit: 6 -%}
+          <article class="post-card">
+            <div class="post-meta">
+              {%- assign date_format = site.minima.date_format | default: "%B %d, %Y" -%}
+              <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: date_format }}</time>
+            </div>
+            <h3 class="post-title">
+              <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+            </h3>
+            {%- if site.show_excerpts -%}
+              <div class="post-excerpt">{{ post.excerpt | strip_html | truncatewords: 30 }}</div>
+            {%- endif -%}
+            <a href="{{ post.url | relative_url }}" class="read-more">Read more →</a>
+          </article>
+          {%- endfor -%}
+        </div>
+      </div>
+    </section>
+  {%- endif -%}
+
+  <section class="highlights-section">
+    <div class="container">
+      <h2 class="section-title">Research Highlights</h2>
+      <div class="highlights-grid">
+        <div class="highlight-card">
+          <div class="highlight-icon">🧬</div>
+          <h3>Single-cell Analysis</h3>
+          <p>Developing computational methods for single-cell RNA sequencing data analysis and immune cell characterization.</p>
+        </div>
+        <div class="highlight-card">
+          <div class="highlight-icon">🔬</div>
+          <h3>Cancer Research</h3>
+          <p>Investigating tumor immunology and therapeutic vulnerabilities in pancreatic and lung cancers.</p>
+        </div>
+        <div class="highlight-card">
+          <div class="highlight-icon">💻</div>
+          <h3>Software Development</h3>
+          <p>Creating open-source tools and packages for computational biology research and data analysis.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+</main>
 
     <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
   {%- endif -%}
