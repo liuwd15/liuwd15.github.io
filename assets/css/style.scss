@@ -472,29 +472,44 @@ h3 { font-size: 1.5rem; }
 .software-links {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-  gap: 1rem;
+  gap: 1.5rem;
   margin-top: 2rem;
 }
 
-.software-links a {
-  display: block;
-  padding: 1rem;
+.software-item {
+  padding: 1.5rem;
   background: var(--surface);
   border: 1px solid var(--border);
   border-radius: 0.5rem;
-  color: var(--text-primary);
-  text-decoration: none;
   transition: var(--transition);
   text-align: center;
-  font-weight: 500;
 }
 
-.software-links a:hover {
-  background: var(--primary-color);
-  color: white;
+.software-item:hover {
   transform: translateY(-2px);
   box-shadow: var(--shadow);
+  border-color: var(--primary-color);
+}
+
+.software-item a {
+  color: var(--primary-color);
   text-decoration: none;
+  font-weight: 600;
+  font-size: 1.125rem;
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
+.software-item a:hover {
+  color: var(--accent-color);
+  text-decoration: none;
+}
+
+.software-item p {
+  color: var(--text-secondary);
+  font-size: 0.9rem;
+  line-height: 1.5;
+  margin: 0;
 }
 
 /* Animations */

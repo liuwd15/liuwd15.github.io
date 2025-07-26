@@ -72,29 +72,41 @@ permalink: /about/
   <h2>💻 Software & Tools</h2>
   
   <div class="software-links">
-    <a href="https://github.com/liuwd15/irvi" target="_blank">
-      <strong>irvi</strong><br>
-      Joint analysis of gene expression and T-cell receptor (TCR) sequence data
-    </a>
-    <a href="https://github.com/liuwd15/Scupa" target="_blank">
-      <strong>Scupa</strong><br>
-      Single-cell unified polarization assessment of immune cells
-    </a>
-    <a href="https://github.com/liuwd15/GAN-DP" target="_blank">
-      <strong>GAN-DP</strong><br>
-      StyleGAN2-based method for semantic image-driven phenotypes
-    </a>
-    <a href="https://github.com/liuwd15/tomoda" target="_blank">
-      <strong>tomoda</strong><br>
-      R/Bioconductor package for tomo-seq data analysis
-    </a>
-    <a href="https://github.com/liuwd15/sc-mireg" target="_blank">
-      <strong>sc-miReg</strong><br>
-      Analysis of miRNA regulation in single cells
-    </a>
-    <a href="https://github.com/liuwd15/scRIN" target="_blank">
-      <strong>scRIN</strong><br>
-      Measuring mRNA integrity in single-cell sequencing data
-    </a>
+    <div class="software-item">
+      <a href="https://github.com/liuwd15/irvi" target="_blank">
+        <strong>irvi</strong>
+      </a>
+      <p>Joint analysis of gene expression and T-cell receptor (TCR) sequence data</p>
+    </div>
+    <div class="software-item">
+      <a href="https://github.com/liuwd15/Scupa" target="_blank">
+        <strong>Scupa</strong>
+      </a>
+      <p>Single-cell unified polarization assessment of immune cells</p>
+    </div>
+    <div class="software-item">
+      <a href="https://github.com/liuwd15/GAN-DP" target="_blank">
+        <strong>GAN-DP</strong>
+      </a>
+      <p>StyleGAN2-based method for semantic image-driven phenotypes</p>
+    </div>
+    <div class="software-item">
+      <a href="https://github.com/liuwd15/tomoda" target="_blank">
+        <strong>tomoda</strong>
+      </a>
+      <p>R/Bioconductor package for tomo-seq data analysis</p>
+    </div>
+    <div class="software-item">
+      <a href="https://github.com/liuwd15/sc-mireg" target="_blank">
+        <strong>sc-miReg</strong>
+      </a>
+      <p>Analysis of miRNA regulation in single cells</p>
+    </div>
+    <div class="software-item">
+      <a href="https://github.com/liuwd15/scRIN" target="_blank">
+        <strong>scRIN</strong>
+      </a>
+      <p>Measuring mRNA integrity in single-cell sequencing data</p>
+    </div>
   </div>
 </section>
