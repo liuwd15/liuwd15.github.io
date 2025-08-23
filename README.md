@@ -1,89 +1,73 @@
-# Wendao Liu's Academic Website
+## Voyager
 
-A modern, responsive Jekyll website built with GitHub Pages.
+Just another jekyll theme. Demo: <http://redvi.github.io/voyager>
 
-## Features
+### Feathures:
 
-- **Modern Design**: Clean, professional layout with CSS Grid and Flexbox
-- **Responsive**: Mobile-first design that looks great on all devices
-- **Fast Loading**: Optimized images and modern CSS for quick page loads
-- **SEO Optimized**: Built-in SEO tags and structured data
-- **Academic Focus**: Sections for publications, research, and software projects
+All HTML files are compressed (see `_layouts/compress.html`).
 
-## Development
+**Post**
 
-### Prerequisites
-
-- Ruby 2.7+
-- Bundler
-- Git
-
-### Local Development
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/liuwd15/liuwd15.github.io.git
-   cd liuwd15.github.io
-   ```
-
-2. Install dependencies:
-   ```bash
-   bundle install
-   ```
-
-3. Run the development server:
-   ```bash
-   bundle exec jekyll serve
-   ```
-
-4. Open your browser to `http://localhost:4000`
-
-### Making Changes
-
-- **Content**: Edit the Markdown files in the root directory
-- **Styling**: Modify `assets/css/style.scss`
-- **Layout**: Update files in `_layouts/` and `_includes/`
-- **Configuration**: Edit `_config.yml`
-
-## Structure
+All post settings can be changed. Example:
 
 ```
-├── _config.yml          # Site configuration
-├── _layouts/            # HTML layouts
-├── _includes/           # Reusable HTML snippets
-├── _posts/              # Blog posts
-├── assets/css/          # Stylesheets
-├── img/                 # Images
-├── index.md             # Homepage
-├── about.md             # About page
-└── 404.html             # Error page
+---
+layout: post
+bg: '2016/background.jpg'
+title: "Post Heading"
+crawlertitle: "page title"
+summary: "post description"
+date: 2016-06-29
+tags : ['front-end']
+slug: post-url
+author: "Author"
+categories: posts
+---
 ```
 
-## Customization
+`bg` is a path to background of your article. By default backgrounds are placed in the `assets/images` directory.
 
-### Colors and Styling
+**Page**
 
-The site uses CSS custom properties (variables) for easy theming. Edit the `:root` section in `assets/css/style.scss`:
+If page contains `active` tag, it will be show on site menu.
 
-```css
-:root {
-  --primary-color: #2563eb;
-  --secondary-color: #64748b;
-  --accent-color: #8b5cf6;
-  /* ... more variables */
-}
+```
+---
+layout: page
+title: "About"
+permalink: /about/
+active: about
+---
 ```
 
-### Content Updates
+**Archive**
 
-1. **Publications**: Edit the publications list in `about.md`
-2. **Software Projects**: Update the software links section in `about.md`
-3. **Personal Info**: Modify the hero section and bio in `_config.yml`
+Archive page is sorting posts by tags. No more than one tag in one post.
 
-## Deployment
+Good:
 
-The site is automatically deployed via GitHub Pages when you push to the main branch.
+```
+tags : ['front-end']
+```
 
-## License
+Bad:
 
-© 2020-present Wendao Liu. All Rights Reserved.
+```
+tags : ['front-end', 'jekyll']
+```
+
+Don't forget to change `_config.yml`.
+
+**Relative paths**
+
+If your blog is not in the root directory, you can include images with a relative path. For example:
+
+```
+![my_image]({{ site.images | relative_url }}/image.jpg)
+```
+
+## Production environment
+
+Build for production:
+
+`JEKYLL_ENV=production jekyll build`

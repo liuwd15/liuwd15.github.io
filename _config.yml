@@ -1,57 +1,42 @@
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
+# which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+# 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
 title: Wendao Liu
-tagline: PhD Student | Computational Biology | Single-cell Analysis | Machine Learning
 email: liuwd15@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
+description: > # this means to ignore newlines until "baseurl:"
   PhD student at The University of Texas MD Anderson Cancer Center UTHealth Houston Graduate School 
   of Biomedical Sciences, specializing in computational biology and single-cell analysis.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+lang: "en"
+url: "http://localhost:4000" # the base hostname & protocol for your site
+twitter_username: # Add your twitter handle if you have one
 github_username: liuwd15
-linkedin_username: wendao-liu
-google_scholar: tSspDo0AAAAJ
-
-# Author information
-author:
-  name: Wendao Liu
-  bio: PhD Student in Computational Biology
-  location: Houston, TX
-  avatar: /img/photo.jpg
+disqus_username: # Add if you want comments
 
 # Build settings
 markdown: kramdown
-highlighter: rouge
-theme: minima
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-seo-tag
+permalink: /:categories/:title/
 
-# Custom settings
-show_excerpts: false
+# Posts settings
+future: true
+safe: false
+lsi: false
+excerpt_separator: "\n\n"
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+# Theme settings
+compress_html:
+  comments: ["<!-- ", " -->"]
+  clippings: all
+  endings: all
+
+
+sass:
+  style: compressed
+
+
+images: '/assets/images'
