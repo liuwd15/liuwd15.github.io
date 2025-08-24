@@ -21,7 +21,8 @@
   function setDate() {
     var currentYear = document.querySelector('.full-year');
     if (currentYear) {
-      currentYear.innerHTML = new Date().getFullYear();
+      var year = new Date().getFullYear();
+      currentYear.innerHTML = '2020-' + year;
     }
   }
 
