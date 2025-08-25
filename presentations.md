@@ -39,7 +39,7 @@ This page contains my conference presentations, posters, and talks from various 
   - *Single-cell immune profiling reveals potent anti-tumor immune response in virus-like particle vaccine and anti-CTLA4 treatment through lymphatic delivery*
 
 - **[SCBA-TX Presentation 2025]({{ site.baseurl }}/assets/presentations/SCBA-TX%20presentation%202025.pptx)** *(PowerPoint)*
-  - Single Cell Biology Association of Texas
+  - Society of Chinese Bioscientists in America - Texas Annual Scientific Symposium
   - *Scupa: Single-cell unified polarization assessment of immune cells using the single-cell foundation model*
 
 ### 2024
@@ -49,7 +49,7 @@ This page contains my conference presentations, posters, and talks from various 
   - *Scupa: Single-cell unified polarization assessment of immune cells using the single-cell foundation model*
 
 - **[SCBA-TX Presentation 2024]({{ site.baseurl }}/assets/presentations/SCBA-TX%20presentation%202024.pptx)** *(PowerPoint)*
-  - Single Cell Biology Association of Texas
+  - Society of Chinese Bioscientists in America - Texas Annual Scientific Symposium
   - *Single-Cell Transcriptomics Reveals Pre-existing COVID-19 Vulnerability Factors in Lung Cancer Patients*
 
 ---
