@@ -6,7 +6,7 @@ summary: "PhD Student in Bioinformatics / Computational Biology"
 bg: "rails.jpg"
 ---
 
-# Welcome to My Academic Homepage
+# Welcome to My Homepage
 
 I am a PhD student at The University of Texas MD Anderson Cancer Center UTHealth Houston Graduate School of Biomedical Sciences, specializing in computational biology and single-cell analysis.
 

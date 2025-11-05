@@ -21,13 +21,13 @@ I am a PhD student at The University of Texas MD Anderson Cancer Center UTHealth
 
 ## Research Interests
 
-My research focuses on developing computational methods for understanding biological systems at the single-cell level:
+My research focuses on developing computational methods for understanding biological systems and analyzing large-scale omics for human disease research:
 
-- **Single-cell and spatial biology**: Transcriptomics, multi-omics integration
 - **Computational methods**: Machine learning applications in biology, foundation models for genomics
+- **Single-cell and spatial biology**: Transcriptomics, multi-omics integration
 - **Immune cell analysis**: T-cell receptor sequencing, immune cell polarization, and functional states
 - **Cancer immunology**: Tumor microenvironment analysis and therapeutic target identification
-- **Previous Experience**: Collaborative research across computational biology, clinical medicine, and bioinformatics
+- **Previous Experience**: Collaborative research across computational biology, clinical medicine, and biomarker identification
 
 ## Technical Skills
 
@@ -35,9 +35,9 @@ My research focuses on developing computational methods for understanding biolog
 -	**Programming language skills**: Python, R, Bash, C, C++, Java, SQL
 -	**Software development**: Git & Github, Conda, Docker, R & Python package
 -	**Statistic skills**: Frequentist & Bayesian inference, Generative models, MCMC, Variational inference
+-	**Omics data analysis**: DNA-seq, RNA-seq, ATAC-seq, TCR/BCR-seq, single-cell multiome, spatial transcriptomics, proteomics
 -	**Single-cell and spatial transcriptomics tools**: Scanpy, Scvi-tools, Pertpy, Scirpy, Squidpy, SpatialData, Seurat, Signac, single-cell foundation models (scGPT, scFoundation, UCE), etc
--	**Next generation sequencing analysis**: DNA-seq, RNA-seq, ATAC-seq, TCR/BCR-seq, single-cell multiome, spatial transcriptomics
--	**Linux skills**: Hardware & software configuration, Slurm system, AWS usage
+-	**Linux skills**: Hardware & software configuration, Slurm system, AWS cloud computing
 -	**Flow cytometry analysis**: FlowJo
 
 
@@ -45,6 +45,7 @@ My research focuses on developing computational methods for understanding biolog
 
 I develop and maintain several open-source bioinformatics tools:
 
+- [**FADVI**](https://github.com/liuwd15/fadvi): Disentangled representation learning for single-cell and spatial omics data integration
 - [**irvi**](https://github.com/liuwd15/irvi): Joint analysis of gene expression and T-cell receptor (TCR) sequence data
 - [**Scupa**](https://github.com/liuwd15/Scupa): Single-cell unified polarization assessment of immune cells using foundation models
 - [**GAN-DP**](https://github.com/liuwd15/GAN-DP): StyleGAN2-based method for semantic image-driven phenotypes

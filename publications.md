@@ -16,6 +16,8 @@ Google scholar: [View Profile](https://scholar.google.com/citations?user=tSspDo0
 
 ### 2025
 
+- **Liu W**, Qu G, Simon LM, Theis FJ, Zhao Z. FADVI: disentangled representation learning for robust integration of single-cell and spatial omics data. *bioRxiv*. 2025. doi:[10.1101/2025.11.03.683998](https://doi.org/10.1101/2025.11.03.683998)
+
 - Xiao L, Duan R, **Liu W**, Zhang C, Ma X, et al. Tumor-specific CD8+ Tc9 1 cells activate host CD4+ T cells to control antigen-lost tumors. *Nat Cancer*. 2025. doi:[10.1038/s43018-025-00935-0](https://doi.org/10.1038/s43018-025-00935-0)
 
 - Cui H, Nie H, Wang C, Zhang N, Wang Y, **Liu W**, et al. Phenotype-based classification of obstructive hypertrophic cardiomyopathy undergoing myomectomy. *JACC Basic Transl Sci*. 2025. doi:[10.1016/j.jacbts.2024.12.016](https://doi.org/10.1016/j.jacbts.2024.12.016)
