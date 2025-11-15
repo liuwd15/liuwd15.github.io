@@ -12,11 +12,12 @@ active: publications
 
 Google scholar: [View Profile](https://scholar.google.com/citations?user=tSspDo0AAAAJ)
 
-## Peer-Reviewed Articles
 
 ### 2025
 
 - **Liu W**, Qu G, Simon LM, Theis FJ, Zhao Z. FADVI: disentangled representation learning for robust integration of single-cell and spatial omics data. *bioRxiv*. 2025. doi:[10.1101/2025.11.03.683998](https://doi.org/10.1101/2025.11.03.683998)
+
+- Itai T, Dai Y, **Liu W**, Lee DF, Zhao Z. Investigating prognostic features in high-grade serous ovarian cancer through gene regulatory network inference with single-cell transcriptomic profiles. *Sci Rep*. 2025. doi:[10.1038/s41598-025-22937-9](https://doi.org/10.1038/s41598-025-22937-9)
 
 - Xiao L, Duan R, **Liu W**, Zhang C, Ma X, et al. Tumor-specific CD8+ Tc9 1 cells activate host CD4+ T cells to control antigen-lost tumors. *Nat Cancer*. 2025. doi:[10.1038/s43018-025-00935-0](https://doi.org/10.1038/s43018-025-00935-0)
 
