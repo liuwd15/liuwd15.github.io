@@ -12,6 +12,29 @@ active: presentations
 
 This page contains my conference presentations, posters, and talks from various academic venues.
 
+## 🎤 Presentations & Talks
+
+### 2025
+
+- **[IOCV 2025]({{ site.baseurl }}/assets/presentations/IOCV2025.pptx)** *(PowerPoint)*
+  - The 3rd International Online Conference on Vaccines
+  - *Single-cell immune profiling reveals potent anti-tumor immune response in virus-like particle vaccine and anti-CTLA4 treatment through lymphatic delivery*
+
+- **[SCBA-TX Presentation 2025]({{ site.baseurl }}/assets/presentations/SCBA-TX%20presentation%202025.pptx)** *(PowerPoint)*
+  - Society of Chinese Bioscientists in America - Texas Annual Scientific Symposium
+  - *Scupa: Single-cell unified polarization assessment of immune cells using the single-cell foundation model*
+
+### 2024
+
+- **[QS Seminar 2024]({{ site.baseurl }}/assets/presentations/QS%20seminar%202024.pptx)** *(PowerPoint)*
+  - Quantitative Sciences Seminar
+  - *Scupa: Single-cell unified polarization assessment of immune cells using the single-cell foundation model*
+
+- **[SCBA-TX Presentation 2024]({{ site.baseurl }}/assets/presentations/SCBA-TX%20presentation%202024.pptx)** *(PowerPoint)*
+  - Society of Chinese Bioscientists in America - Texas Annual Scientific Symposium
+  - *Single-Cell Transcriptomics Reveals Pre-existing COVID-19 Vulnerability Factors in Lung Cancer Patients*
+
+
 ## 📊 Conference Posters
 
 ### 2024
@@ -29,28 +52,6 @@ This page contains my conference presentations, posters, and talks from various 
 - **[BoG 2023 Poster]({{ site.baseurl }}/assets/presentations/poster%20BoG%202023.pdf)** *(PDF)*
   - Biology of Genomes Conference
   - *Correcting and classifying SARS-CoV-2 RNA expression in single cells*
-
-## 🎤 Presentations & Talks
-
-### 2025
-
-- **[QS Seminar 2025]({{ site.baseurl }}/assets/presentations/QS%20seminar%202025.pptx)** *(PowerPoint)*
-  - Quantitative Sciences Seminar
-  - *Single-cell immune profiling reveals potent anti-tumor immune response in virus-like particle vaccine and anti-CTLA4 treatment through lymphatic delivery*
-
-- **[SCBA-TX Presentation 2025]({{ site.baseurl }}/assets/presentations/SCBA-TX%20presentation%202025.pptx)** *(PowerPoint)*
-  - Society of Chinese Bioscientists in America - Texas Annual Scientific Symposium
-  - *Scupa: Single-cell unified polarization assessment of immune cells using the single-cell foundation model*
-
-### 2024
-
-- **[QS Seminar 2024]({{ site.baseurl }}/assets/presentations/QS%20seminar%202024.pptx)** *(PowerPoint)*
-  - Quantitative Sciences Seminar
-  - *Scupa: Single-cell unified polarization assessment of immune cells using the single-cell foundation model*
-
-- **[SCBA-TX Presentation 2024]({{ site.baseurl }}/assets/presentations/SCBA-TX%20presentation%202024.pptx)** *(PowerPoint)*
-  - Society of Chinese Bioscientists in America - Texas Annual Scientific Symposium
-  - *Single-Cell Transcriptomics Reveals Pre-existing COVID-19 Vulnerability Factors in Lung Cancer Patients*
 
 ---
 
