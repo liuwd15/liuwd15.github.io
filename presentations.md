@@ -16,8 +16,12 @@ This page contains my conference presentations, posters, and talks from various 
 
 ### 2025
 
+- **[IOCV 2025]({{ site.baseurl }}/assets/presentations/genentech%20seminar.pptx)** *(PowerPoint)*
+  - Genentech seminar
+  - *Machine learning for cell state representation in single-cell data*
+
 - **[IOCV 2025]({{ site.baseurl }}/assets/presentations/IOCV2025.pptx)** *(PowerPoint)*
-  - The 3rd International Online Conference on Vaccines
+  - **Invited speaker** The 3rd International Online Conference on Vaccines
   - *Single-cell immune profiling reveals potent anti-tumor immune response in virus-like particle vaccine and anti-CTLA4 treatment through lymphatic delivery*
 
 - **[SCBA-TX Presentation 2025]({{ site.baseurl }}/assets/presentations/SCBA-TX%20presentation%202025.pptx)** *(PowerPoint)*
