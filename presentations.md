@@ -16,7 +16,7 @@ This page contains my conference presentations, posters, and talks from various 
 
 ### 2025
 
-- **[IOCV 2025]({{ site.baseurl }}/assets/presentations/genentech%20seminar.pptx)** *(PowerPoint)*
+- **[Genentech seminar]({{ site.baseurl }}/assets/presentations/genentech%20seminar.pptx)** *(PowerPoint)*
   - Genentech seminar
   - *Machine learning for cell state representation in single-cell data*
 
