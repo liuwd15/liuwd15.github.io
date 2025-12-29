@@ -23,10 +23,10 @@ I am a PhD student at The University of Texas MD Anderson Cancer Center UTHealth
 
 My research focuses on developing computational methods for understanding biological systems and analyzing large-scale omics for human disease research:
 
-- **Computational methods**: Machine learning applications in biology, foundation models for genomics
+- **Computational methods**: Machine learning applications in biology, foundation models for omics data
 - **Single-cell and spatial biology**: Transcriptomics, multi-omics integration
 - **Immune cell analysis**: T-cell receptor sequencing, immune cell polarization, and functional states
-- **Cancer immunology**: Tumor microenvironment analysis and therapeutic target identification
+- **Cancer immunology**: Tumor microenvironment analysis, cancer immunotherapies, therapeutic target identification
 - **Previous Experience**: Collaborative research across computational biology, clinical medicine, and biomarker identification
 
 ## Technical Skills
@@ -35,8 +35,9 @@ My research focuses on developing computational methods for understanding biolog
 -	**Programming language skills**: Python, R, Bash, C, C++, Java, SQL
 -	**Software development**: Git & Github, Conda, Docker, R & Python package
 -	**Statistic skills**: Frequentist & Bayesian inference, Generative models, MCMC, Variational inference
+-	**Biological foundation models**: DNA models (Enformer, DNABert, Evo, AlphaGenome), protein models (AlphaFold, ESM, RoseTTAFold/RFDiffusion), single-cell models (scGPT, scFoundation, UCE, SCimilarity)
 -	**Omics data analysis**: DNA-seq, RNA-seq, ATAC-seq, TCR/BCR-seq, single-cell multiome, spatial transcriptomics, proteomics
--	**Single-cell and spatial transcriptomics tools**: Scanpy, Scvi-tools, Pertpy, Scirpy, Squidpy, SpatialData, Seurat, Signac, single-cell foundation models (scGPT, scFoundation, UCE), etc
+-	**Single-cell and spatial transcriptomics tools**: Scanpy, Scvi-tools, Pertpy, Scirpy, Squidpy, SpatialData, Seurat, Signac, etc
 -	**Linux skills**: Hardware & software configuration, Slurm system, AWS cloud computing
 -	**Flow cytometry analysis**: FlowJo
 
