@@ -61,6 +61,12 @@ This page contains my conference presentations, posters, and talks from various 
 
 ## 📋 Selected Journal Club Presentation of bioinformatic papers
 
+### 2026
+
+- **[Virtual lab Journal Club - Jan 9, 2026]({{ site.baseurl }}/assets/presentations/JC%20Virtual%20lab%201.9.2026.pptx)** *(PowerPoint)*
+  - Virtal lab for nanobody design
+  - *LLM agents as researchers in computation-based scientific discovery*
+
 ### 2025
 
 - **[Alphagenome Journal Club - July 11, 2025]({{ site.baseurl }}/assets/presentations/JC%20Alphagenome%207.11.2025.pptx)** *(PowerPoint)*

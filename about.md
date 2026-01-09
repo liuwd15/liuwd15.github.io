@@ -49,7 +49,7 @@ I develop and maintain several open-source bioinformatics tools:
 - [**FADVI**](https://github.com/liuwd15/fadvi): Disentangled representation learning for single-cell and spatial omics data integration
 - [**irvi**](https://github.com/liuwd15/irvi): Joint analysis of gene expression and T-cell receptor (TCR) sequence data
 - [**Scupa**](https://github.com/liuwd15/Scupa): Single-cell unified polarization assessment of immune cells using foundation models
-- [**GAN-DP**](https://github.com/liuwd15/GAN-DP): StyleGAN2-based method for semantic image-driven phenotypes
+- [**GAN-DP**](https://github.com/liuwd15/GAN-DP): StyleGAN2-based method to create semantic image-driven phenotypes
 - [**tomoda**](https://github.com/liuwd15/tomoda): R/Bioconductor package for tomo-seq data analysis
 - [**sc-miReg**](https://github.com/liuwd15/sc-mireg): Analysis of miRNA regulation in single cells
 - [**scRIN**](https://github.com/liuwd15/scRIN): Measuring mRNA integrity in single-cell sequencing data
