@@ -10,7 +10,7 @@ bg: "african-penguins.jpg"
 
 <img src="{{ site.baseurl }}/assets/images/photo.jpg" alt="Wendao Liu" style="float: right; margin: 0 0 20px 20px; max-width: 200px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 
-I am a PhD student at The University of Texas MD Anderson Cancer Center UTHealth Houston Graduate School of Biomedical Sciences, specializing in bioinformatics.
+I am a PhD student at The University of Texas MD Anderson Cancer Center UTHealth Houston Graduate School of Biomedical Sciences, specializing in bioinformatics, and an incoming scientiest at Bristol Myers Squibb.
 
 ## Contact & Links
 

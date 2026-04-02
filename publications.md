@@ -12,6 +12,9 @@ active: publications
 
 Google scholar: [View Profile](https://scholar.google.com/citations?user=tSspDo0AAAAJ)
 
+### 2026
+
+- Liu X, Citu C, Qu Gang, **Liu W**, Enduru N, Liu A, Zhao Z. BDCD: a comprehensive Brain Disease Cell-cell communication Database. *Database*. 2026. doi:[10.1093/database/baag017](https://doi.org/10.1093/database/baag017)
 
 ### 2025
 
