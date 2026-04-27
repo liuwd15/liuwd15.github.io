@@ -14,6 +14,10 @@ Google scholar: [View Profile](https://scholar.google.com/citations?user=tSspDo0
 
 ### 2026
 
+- **Liu W**, Tung C, Sevick-Muraca EM, Zhao Z. Turep: Detecting cross-cancer tumor-reactive T cells in single-cell and spatial transcriptomics data. *bioRxiv*. 2026. doi: [10.64898/2026.04.21.719961](https://doi.org/10.64898/2026.04.21.719961)
+
+- Strickland LN, **Liu W**, Demmel MV, Waller AM, Dash S, et al. Serial Thermal Ablation Induces Abscopal Antitumor Immunity and Reveals Targetable CSF1R-Dependent Resistance in Pancreatic Cancer. *bioRxiv*. 2026. doi: [10.64898/2026.04.05.713683](https://doi.org/10.64898/2026.04.05.713683)
+
 - Liu X, Citu C, Qu Gang, **Liu W**, Enduru N, Liu A, Zhao Z. BDCD: a comprehensive Brain Disease Cell-cell communication Database. *Database*. 2026. doi:[10.1093/database/baag017](https://doi.org/10.1093/database/baag017)
 
 ### 2025

@@ -10,7 +10,7 @@ bg: "african-penguins.jpg"
 
 <img src="{{ site.baseurl }}/assets/images/photo.jpg" alt="Wendao Liu" style="float: right; margin: 0 0 20px 20px; max-width: 200px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 
-I am a PhD student at The University of Texas MD Anderson Cancer Center UTHealth Houston Graduate School of Biomedical Sciences, specializing in bioinformatics, and an incoming scientiest at Bristol Myers Squibb.
+I am an incoming bioinformatics scientist at Bristol Myers Squibb, and a PhD alumni of The University of Texas MD Anderson Cancer Center UTHealth Houston Graduate School of Biomedical Sciences.
 
 ## Contact & Links
 
@@ -25,12 +25,14 @@ My research focuses on developing computational methods for understanding biolog
 
 - **Computational methods**: Machine learning applications in biology, foundation models for omics data
 - **Single-cell and spatial biology**: Transcriptomics, multi-omics integration
-- **Immune cell analysis**: T-cell receptor sequencing, immune cell polarization, and functional states
+- **Immune cell states**: T cell receptor sequencing, immune cell polarization, and functional states
+- **Neurodegenerative disease**: Alzheimer's disease pathology, neuroinflammation, and drug development
 - **Cancer immunology**: Tumor microenvironment analysis, cancer immunotherapies, therapeutic target identification
-- **Previous Experience**: Collaborative research across computational biology, clinical medicine, and biomarker identification
+- **Previous Experience**: Collaborative research across computational biology, clinical medicine, and animal experiments
 
 ## Technical Skills
 
+-   **Agent-assisted research and programming**: Claude Code, Codex, Github Copilot
 -	**Machine learning skills**: Pytorch, Pytorch Lightling, Scikit-learn, Captum, Ray
 -	**Programming language skills**: Python, R, Bash, C, C++, Java, SQL
 -	**Software development**: Git & Github, Conda, Docker, R & Python package
@@ -46,6 +48,7 @@ My research focuses on developing computational methods for understanding biolog
 
 I develop and maintain several open-source bioinformatics tools:
 
+- [**Turep**](https://github.com/liuwd15/turep): Cross-cancer tumor-reactive CD8+ T cell prediction
 - [**FADVI**](https://github.com/liuwd15/fadvi): Disentangled representation learning for single-cell and spatial omics data integration
 - [**irvi**](https://github.com/liuwd15/irvi): Joint analysis of gene expression and T-cell receptor (TCR) sequence data
 - [**Scupa**](https://github.com/liuwd15/Scupa): Single-cell unified polarization assessment of immune cells using foundation models

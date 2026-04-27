@@ -63,6 +63,10 @@ This page contains my conference presentations, posters, and talks from various 
 
 ### 2026
 
+- **[DrugCLIP Journal Club - April 17, 2026]({{ site.baseurl }}/assets/presentations/JC%20DrugCLIP%204.17.2026.pptx)** *(PowerPoint)*
+  - CLIP model for small-molecule drug screening
+  - *Contrastive learning for aligning two modalities and joint latent space simlarity-based prioritization*
+
 - **[Virtual lab Journal Club - Jan 9, 2026]({{ site.baseurl }}/assets/presentations/JC%20Virtual%20lab%201.9.2026.pptx)** *(PowerPoint)*
   - Virtal lab for nanobody design
   - *LLM agents as researchers in computation-based scientific discovery*
