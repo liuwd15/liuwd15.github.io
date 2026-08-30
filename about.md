@@ -10,7 +10,7 @@ bg: "african-penguins.jpg"
 
 <img src="{{ site.baseurl }}/assets/images/photo.jpg" alt="Wendao Liu" style="float: right; margin: 0 0 20px 20px; max-width: 200px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 
-I am an incoming bioinformatics scientist at Bristol Myers Squibb, and a PhD alumni of The University of Texas MD Anderson Cancer Center UTHealth Houston Graduate School of Biomedical Sciences.
+I am a bioinformatics scientist at Bristol Myers Squibb, and a PhD alumni of The University of Texas MD Anderson Cancer Center UTHealth Houston Graduate School of Biomedical Sciences. My current research focuses on the intersection of bioinformatics, translational research and AI/ML to advance the drug development for neurodegenerative diseases.
 
 ## Contact & Links
 
